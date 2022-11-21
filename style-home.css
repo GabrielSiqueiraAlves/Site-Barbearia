@@ -1,0 +1,44 @@
+
+#banner {
+	width: 100%;
+	position: relative;
+}
+
+
+
+.principal {
+	background: #BBBBBB;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.titulo-centralizado {
+	text-align: center
+	padding: 20;
+}
+
+h2 {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+	padding: 10px;
+}
+
+
+.beneficios {
+	background: #BBBBBB;
+	padding: 10px;
+	text-align: center;
+}
+
+#rodape {
+	display: flex;
+	justify-content: center;
+	background: #000000
+
+}
